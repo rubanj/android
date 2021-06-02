@@ -3,9 +3,9 @@
 ## Functional requirements
 
 1.	Display a list of users
-  1.	when app is opened , a list of users will be displayed
-  1.	each entry in the list will display firstName, lastName, statusMessage
-  1.	retrieve the data to populate the list from the following link: https://file.wowapp.me/owncloud/index.php/s/32EQvG6T8eYFiA2/download
+  2. when app is opened , a list of users will be displayed
+  3. each entry in the list will display firstName, lastName, statusMessage
+  4. retrieve the data to populate the list from the following link: https://file.wowapp.me/owncloud/index.php/s/32EQvG6T8eYFiA2/download
 
 1.	Add new user
   1.	after clicking on + button, display a dialog with a form which contains firstName, lastName, statusMessage and a save button
