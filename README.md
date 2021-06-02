@@ -1,6 +1,6 @@
 # Coding Assignment #
 
-Functional requirements
+## Functional requirements
 
 1.	Display a list of users
 a.	when app is opened , a list of users will be displayed
